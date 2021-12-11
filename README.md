@@ -1,6 +1,6 @@
 OPENGL을 활용한 컴퓨터 그래픽스
 
-마지막 과제 
+다양한 쉐이더 활용
 
 ![공룡 전체샷](https://user-images.githubusercontent.com/72914519/114186352-b287b080-9981-11eb-9176-3160006e84c5.PNG)
 
